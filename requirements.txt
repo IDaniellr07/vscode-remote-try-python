@@ -1,1 +1,7 @@
-flask
+Jupyter notebook
+jupyterlab
+tensorflow
+pandas
+numpy
+seaborn
+wordcloud
